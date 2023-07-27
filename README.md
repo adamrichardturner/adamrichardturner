@@ -1,6 +1,21 @@
 # 💫 About Me:
 👋 Hello, my name is Adam Turner. I am a Frontend Developer based in South West London, skilled in crafting websites and applications using React, Next, JavaScript, TypeScript and WordPress.<br><br>I currently work as a freelance Web Developer under my own brand Techeo, delivering beautiful websites for clients in the London area.<br><br>Open to Frontend and Full Stack Developer opportunities.
 
+# 🎨 Portfolio:
+[Checkout my portfolio](https://adamrichardturner.dev/) for a curated sample of projects and skills.
+
+# 📚 Education:
+I am currently studying extension modules on the Full Stack Open certifications offered by the University of Helsinki.  
+
+My qualifications are as follows:
+
+- Full Stack Open (Core), University of Helsinki - Grade 5
+- Frontend Engineer Certificate, Codecademy 
+- Learn Python 3, Codecademy
+- Learn React, Codecademy
+- History BA (Hons), University of Reading - 2:1
+
+I have studied many more courses via Codecademy. You can [see all my obtained certificates here.](https://www.codecademy.com/profiles/adamrichardturner1988/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamrichardturner88) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adamrichardturner) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/csturner88) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codefullstack) 
