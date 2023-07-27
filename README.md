@@ -5,7 +5,7 @@
 [Checkout my portfolio](https://adamrichardturner.dev/) for a curated sample of projects and skills.
 
 # 📚 Education:
-I am currently studying extension modules on the Full Stack Open certifications offered by the University of Helsinki.  
+I am currently studying extension modules on the [Full Stack Open](https://fullstackopen.com/en/) certifications offered by the [University of Helsinki.](https://www.helsinki.fi/en) 
 
 My qualifications are as follows:
 
