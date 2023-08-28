@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Adam Turner. 
 
-I am a Frontend Developer based in South West London, skilled in crafting websites and applications using React, Next, JavaScript, TypeScript and WordPress.<br><br>I currently work as a freelance Web Developer under my own brand [Techeo](https://techeo.co.uk), delivering beautiful websites for clients in the London area.<br><br>Open to Frontend and Full Stack Developer opportunities.
+I am a Full Stack Developer based in South West London, skilled in crafting websites and applications using React, Next, JavaScript, TypeScript and WordPress.<br><br>I currently work as a freelance Web Developer under my own brand [Techeo](https://techeo.co.uk), delivering beautiful websites for clients in the London area.<br><br>Open to Frontend and Full Stack Developer opportunities.
 
 # 🎨 Portfolio:
 [Check out my portfolio](https://adamrichardturner.dev/) for a curated sample of projects and skills.
